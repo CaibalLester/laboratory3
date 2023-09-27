@@ -1,0 +1,46 @@
+CRITICAL - 2023-09-27 13:29:56 --> Invalid file: "webproduct.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('webproduct.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('webproduct', [], true)
+ 3 APPPATH\Controllers\ProductController.php(58): view('webproduct', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->CaibalLester()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\laboratory3\\public\\index.php')
+CRITICAL - 2023-09-27 13:29:58 --> Invalid file: "webproduct.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('webproduct.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('webproduct', [], true)
+ 3 APPPATH\Controllers\ProductController.php(58): view('webproduct', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->CaibalLester()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\laboratory3\\public\\index.php')
+CRITICAL - 2023-09-27 13:34:54 --> Invalid file: "webproduct.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('webproduct.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('webproduct', [], true)
+ 3 APPPATH\Controllers\ProductController.php(58): view('webproduct', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->CaibalLester()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\laboratory3\\public\\index.php')
+CRITICAL - 2023-09-27 14:20:44 --> Undefined property: App\Controllers\ProductController::$load
+in APPPATH\Controllers\ProductController.php on line 57.
+ 1 APPPATH\Controllers\ProductController.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ProductController::$load', 'C:\\laragon\\www\\laboratory3\\app\\Controllers\\ProductController.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->CaibalLester()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\laboratory3\\public\\index.php')
+CRITICAL - 2023-09-27 14:20:47 --> Undefined property: App\Controllers\ProductController::$load
+in APPPATH\Controllers\ProductController.php on line 57.
+ 1 APPPATH\Controllers\ProductController.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ProductController::$load', 'C:\\laragon\\www\\laboratory3\\app\\Controllers\\ProductController.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->CaibalLester()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\laboratory3\\public\\index.php')

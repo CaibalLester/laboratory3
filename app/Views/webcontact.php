@@ -31,7 +31,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="webproduct.php">
             <img src="images/logo.png" alt="">
           </a>
           <div class="" id="">
@@ -57,9 +57,9 @@
             </div>
             <div id="myNav" class="overlay">
               <div class="overlay-content">
-                <a href="index.html">Home</a>
-                <a href="about.html">About</a>
-                <a href="contact.html">Contact Us</a>
+                <a href="webproduct.php">Home</a>
+                <a href="webabout.php">About</a>
+                <a href="webcontact.php">Contact Us</a>
               </div>
             </div>
           </div>
